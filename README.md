@@ -1,6 +1,6 @@
 # Jr Stepper Form
 
-jr-stepper-form is a stepper form builder component for react. The component is design keeping ease of use in mind. The library is very easy to use with only 2 imports.
+jr-stepper-form is a stepper form builder component for react. The component is design keeping ease of use in mind. The library is very easy to use with only 1 imports.
 
 The library dosen't have any styles included so it dosen't conflict with your own styles.
 
